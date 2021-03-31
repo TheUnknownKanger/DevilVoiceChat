@@ -16,15 +16,19 @@ Use the buttons below to know more about me.""",
             [
                 [
                     InlineKeyboardButton(
-                        "⚒ Source code", url="https://github.com/callsmusic/callsmusic"
+                        "⚒ Source code", url="https://t.me/lucifeermorningstar"
                     )
+                ],
+                 [
+                    InlineKeyboardButton(
+                        "🇮🇳 Devil", url="https://t.me/lucifeermorningstar")
                 ],
                 [
                     InlineKeyboardButton(
-                        "💬 Group", url="https://t.me/callsmusicchat"
+                        "💬 Group", url="https://t.me/DaisyXSupport"
                     ),
                     InlineKeyboardButton(
-                        "Channel 🔈", url="https://t.me/callsmusic"
+                        "Channel 🔈", url="https://t.me/DaisyXNews"
                     )
                 ]
             ]
